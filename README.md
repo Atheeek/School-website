@@ -32,7 +32,7 @@ A modern, responsive school website built with React, TypeScript, and Tailwind C
 
 ### 🏠 Homepage
 
-![Homepage](public/images/homepage.png)  
+![Homepage](public/images/home.png)  
 > A clean, welcoming landing page showcasing the school’s mission, programs, and call to action.
 
 ### 🎓 About Us
@@ -44,11 +44,6 @@ A modern, responsive school website built with React, TypeScript, and Tailwind C
 
 ![Academics](public/images/academics.png)  
 > Detailed view of the academic programs, curriculum highlights, and philosophy.
-
-### 👩‍🏫 Faculty Directory
-
-![Faculty](Images/faculty.png)  
-> Staff directory with search and filters to explore qualified educators.
 
 ### 📰 News & Events
 
