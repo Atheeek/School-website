@@ -60,6 +60,35 @@ A modern, responsive school website built with React, TypeScript, and Tailwind C
 ![Contact](Images/contact.png)  
 > Contact details, interactive form, and embedded map for easy outreach.
 
+## 📸 Screenshots
+
+### 🏠 Homepage  
+![Homepage](public/images/homepage.png)  
+> A modern, responsive landing page showcasing the school’s vision, programs, and core highlights.
+
+### 📖 About Page  
+![About](public/images/about.png)  
+> Detailed section outlining the school’s history, mission, values, and campus facilities.
+
+### 🎓 Academics Page  
+![Academics](public/images/academics.png)  
+> Comprehensive view of the educational programs, curriculum details, and academic philosophy.
+
+### 👩‍🏫 Faculty Page  
+![Faculty](public/images/faculty.png)  
+> Directory of staff members with search/filter functionality to explore faculty profiles.
+
+### 📰 News & Events Page  
+![News](public/images/news.png)  
+> Stay updated with the latest announcements, achievements, and upcoming events.
+
+### 📞 Contact Page  
+![Contact](public/images/contact.png)  
+> Contact form with map, admission instructions, and school contact details.
+
+---
+
+
 
 ## 🚀 Quick Start
 
