@@ -32,17 +32,17 @@ A modern, responsive school website built with React, TypeScript, and Tailwind C
 
 ### 🏠 Homepage
 
-![Homepage](Images/home.png)  
+![Homepage](public/images/homepage.png)  
 > A clean, welcoming landing page showcasing the school’s mission, programs, and call to action.
 
 ### 🎓 About Us
 
-![About](Images/about.png)  
+![About](public/images/about.png)  
 > Overview of the school’s history, mission, campus features, and leadership.
 
 ### 📚 Academics Page
 
-![Academics](Images/academics.png)  
+![Academics](public/images/academics.png)  
 > Detailed view of the academic programs, curriculum highlights, and philosophy.
 
 ### 👩‍🏫 Faculty Directory
@@ -52,39 +52,14 @@ A modern, responsive school website built with React, TypeScript, and Tailwind C
 
 ### 📰 News & Events
 
-![News](Images/news.png)  
+![News](public/images/news.png)  
 > Stay updated with recent announcements and upcoming school activities.
 
 ### 📞 Contact Page
 
-![Contact](Images/contact.png)  
+![Contact](public/images/contact.png)  
 > Contact details, interactive form, and embedded map for easy outreach.
 
-## 📸 Screenshots
-
-### 🏠 Homepage  
-![Homepage](public/images/homepage.png)  
-> A modern, responsive landing page showcasing the school’s vision, programs, and core highlights.
-
-### 📖 About Page  
-![About](public/images/about.png)  
-> Detailed section outlining the school’s history, mission, values, and campus facilities.
-
-### 🎓 Academics Page  
-![Academics](public/images/academics.png)  
-> Comprehensive view of the educational programs, curriculum details, and academic philosophy.
-
-### 👩‍🏫 Faculty Page  
-![Faculty](public/images/faculty.png)  
-> Directory of staff members with search/filter functionality to explore faculty profiles.
-
-### 📰 News & Events Page  
-![News](public/images/news.png)  
-> Stay updated with the latest announcements, achievements, and upcoming events.
-
-### 📞 Contact Page  
-![Contact](public/images/contact.png)  
-> Contact form with map, admission instructions, and school contact details.
 
 ---
 
