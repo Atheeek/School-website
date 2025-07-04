@@ -1,4 +1,4 @@
-# Excelsior Academy
+# School website
 
 A modern, responsive school website built with React, TypeScript, and Tailwind CSS. This project showcases a comprehensive educational institution website with beautiful design, smooth animations, and excellent user experience.
 
@@ -216,12 +216,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Fonts**: Google Fonts (Inter & Plus Jakarta Sans)
 - **Inspiration**: Modern educational institution websites
 
-## 📞 Support
-
-For questions or support, please contact:
-- Email: info@excelsior-academy.edu
-- Phone: (555) 123-4567
-
 ---
 
-**Built with ❤️ for educational excellence**
