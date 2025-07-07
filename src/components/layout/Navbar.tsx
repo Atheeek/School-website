@@ -75,7 +75,7 @@ const Navbar: React.FC = () => {
         <Link to="/" className="flex items-center space-x-2">
           <GraduationCap size={32} className={`${isScrolled ? 'text-primary-800' : 'text-white'}`} />
           <span className={`text-xl font-serif font-bold ${isScrolled ? 'text-primary-800' : 'text-white'}`}>
-            CDAC Academy
+            TEMS
           </span>
         </Link>
 
