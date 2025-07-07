@@ -28,7 +28,7 @@ const Hero: React.FC = () => {
             Where Learning Comes to Life
           </h1>
           <p className="text-xl md:text-2xl text-gray-200 mb-8">
-            At Excelsior Academy, we create a nurturing environment where young minds grow, explore, and thrive through engaging, hands-on learning experiences.
+            At Thajul Ulama English Medium School, we create a nurturing environment where young minds grow, explore, and thrive through engaging, hands-on learning experiences.
           </p>
           <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
             <Link to="/about" className="btn btn-accent">
